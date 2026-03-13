@@ -1,5 +1,7 @@
 # Hi, I'm Veena 👋
 
+**[Portfolio →](https://veena-pandla.github.io/portfolio/)**
+
 ML Engineer focused on computer vision, distributed systems, and making data actually useful.
 
 I spent a few years in industry — fintech, retail analytics, startups — building things that got used: churn prediction models, automated reporting pipelines, A/B testing frameworks. Now I'm at Anderson University sharpening the deeper ML side, specifically robotics and autonomous systems.
